@@ -17,7 +17,7 @@ from tgcf.bot.utils import (
 
 @admin_protect
 async def forward_command_handler(event):
-    """Handle the `Setup` command."""
+    """Handle the `/forward` command."""
     notes = """The `/forward` command allows you to add a new forward.
     Example: suppose you want to forward from a to (b and c)
 
