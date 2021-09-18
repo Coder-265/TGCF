@@ -2,8 +2,8 @@
 
 COMMANDS = {
     "start": "Check whether I am alive",
-    "Setup": "Settings for Bot",
-    "Update": "Update the bot",
+    "forward": "Settings for Bot",
+    "remove": "Update the bot",
     "help": "Contact @Gamer_4560",
 }
 
