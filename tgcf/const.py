@@ -4,7 +4,7 @@ COMMANDS = {
     "start": "Check whether I am alive",
     "forward": "Settings for Bot",
     "remove": "Update the bot",
-    "help": "",
+    "help": "Contact Owner",
 }
 
 REGISTER_COMMANDS = True
