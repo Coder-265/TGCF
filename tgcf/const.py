@@ -2,9 +2,9 @@
 
 COMMANDS = {
     "start": "Check whether I am alive",
-    "forward": "Set a new forward",
-    "remove": "Remove an existing forward",
-    "help": "Learn usage",
+    "Setup": "Settings for Bot",
+    "Update": "Update the bot",
+    "help": "Contact @Gamer_4560",
 }
 
 REGISTER_COMMANDS = True
@@ -20,4 +20,4 @@ class BotMessages:
 
     # pylint: disable=too-few-public-methods
     start = "Hi! I am alive"
-    bot_help = "For details visit github.com/aahnik/tgcf"
+    bot_help = "Buy Your Own Bot @Gamer_4560"
