@@ -150,8 +150,6 @@ You can enjoy smooth one-click deploys to the major cloud providers.
 ## Getting Help
 
 - First of all [read the wiki](https://github.com/aahnik/tgcf/wiki)
-and [watch the videos](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)
-to get started.
 
 - Type your question in GitHub's Search bar on the top left of this page,
 and click "In this repository".
