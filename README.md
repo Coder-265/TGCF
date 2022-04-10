@@ -69,9 +69,6 @@ for tgcf is like stealing candy from a baby.
 What are you waiting for? Star the repo and click Watch to recieve updates.
 
 <!-- markdownlint-disable -->
-## Video Tutorial
-
-A youtube video is coming soon. [Subscribe](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg) to get notified.
 
 <!-- markdownlint-enable -->
 
