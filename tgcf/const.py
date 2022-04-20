@@ -20,4 +20,4 @@ class BotMessages:
 
     # pylint: disable=too-few-public-methods
     start = "Hi! I am alive"
-    bot_help = "For details visit github.com/aahnik/tgcf"
+    bot_help = "Any Issue in Line Bot Contact @Gamer_4560"
