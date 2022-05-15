@@ -1,0 +1,15 @@
+admins: [1919745140] 
+
+forwards:
+  - source: -1001728410290
+    dest: [-1001540530680]
+
+plugins:
+  filter:
+   replace:
+    text:
+      "RUN BANAKAR OUT": Run Banakar Out
+      "CATCH OUT✔️✔️": 🚾 CATCH OUT 🚾
+      "WIDE ✔️✔️" : 🎾 WIDE 🎾
+      "RUN OUT✔️✔️": 🚾 RUN OUT 🚾
+      "✔️✔️": " "
