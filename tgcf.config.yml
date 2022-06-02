@@ -2,10 +2,9 @@ admins: [1919745140]
 
 forwards:
   - source: -1001728410290
-    dest: [-1001540530680]
+    dest: [-1001761089302,-1001713025945]
 
 plugins:
-  filter:
    replace:
     text:
       "RUN BANAKAR OUT": Run Banakar Out
